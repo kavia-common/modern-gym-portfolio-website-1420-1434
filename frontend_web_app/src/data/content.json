@@ -1,0 +1,310 @@
+{
+  "site": {
+    "name": "JERAI GYM",
+    "tagline": "Transform Your Body, Transform Your Life",
+    "description": "Premium fitness facility offering world-class training programs, expert trainers, and state-of-the-art equipment to help you achieve your fitness goals.",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@jeraigym.com",
+    "address": "123 Fitness Avenue, Downtown, NY 10001",
+    "socialLinks": {
+      "facebook": "https://facebook.com/jeraigym",
+      "instagram": "https://instagram.com/jeraigym",
+      "twitter": "https://twitter.com/jeraigym",
+      "youtube": "https://youtube.com/jeraigym"
+    }
+  },
+  "navigation": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "About", "href": "#about" },
+    { "label": "Programs", "href": "#programs" },
+    { "label": "Trainers", "href": "#trainers" },
+    { "label": "Pricing", "href": "#pricing" },
+    { "label": "Testimonials", "href": "#testimonials" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "Blog", "href": "#blog" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "title": "UNLEASH YOUR",
+    "highlight": "FULL POTENTIAL",
+    "subtitle": "Join the ultimate fitness experience with world-class trainers, cutting-edge equipment, and a community that pushes you beyond your limits.",
+    "ctaPrimary": "Join Now",
+    "ctaSecondary": "Book a Free Session",
+    "stats": [
+      { "value": 5000, "suffix": "+", "label": "Active Members" },
+      { "value": 50, "suffix": "+", "label": "Expert Trainers" },
+      { "value": 15, "suffix": "", "label": "Years Experience" },
+      { "value": 98, "suffix": "%", "label": "Satisfaction Rate" }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Why Choose JERAI GYM",
+    "description": "Founded in 2009, JERAI GYM has grown into a premier fitness destination. Our state-of-the-art facility spans over 25,000 sq ft, featuring the latest equipment and technology to support every fitness journey.",
+    "features": [
+      {
+        "name": "State-of-the-Art Equipment",
+        "description": "Over 200+ pieces of premium gym equipment from top brands, regularly maintained and updated."
+      },
+      {
+        "name": "Expert Coaching",
+        "description": "Certified trainers with years of experience in personal training, group fitness, and sport-specific programs."
+      },
+      {
+        "name": "Flexible Hours",
+        "description": "Open 5 AM to 11 PM daily, with 24/7 access for premium members to fit any schedule."
+      },
+      {
+        "name": "Nutrition Planning",
+        "description": "Customized meal plans and nutrition counseling to complement your workout routine."
+      }
+    ]
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Find Your Perfect Workout",
+    "items": [
+      {
+        "name": "Strength Training",
+        "description": "Build muscle and increase strength with our comprehensive weight training programs designed for all levels.",
+        "icon": "💪",
+        "duration": "60 min",
+        "level": "All Levels"
+      },
+      {
+        "name": "HIIT Classes",
+        "description": "High-intensity interval training sessions that burn maximum calories and boost your metabolism.",
+        "icon": "🔥",
+        "duration": "45 min",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Yoga & Flexibility",
+        "description": "Improve flexibility, balance, and mental wellness with our expert-led yoga sessions.",
+        "icon": "🧘",
+        "duration": "60 min",
+        "level": "All Levels"
+      },
+      {
+        "name": "CrossFit",
+        "description": "Functional fitness training combining cardio, weightlifting, and gymnastics for peak performance.",
+        "icon": "🏋️",
+        "duration": "50 min",
+        "level": "Advanced"
+      },
+      {
+        "name": "Boxing & MMA",
+        "description": "Learn striking techniques and self-defense while getting an incredible full-body workout.",
+        "icon": "🥊",
+        "duration": "60 min",
+        "level": "All Levels"
+      },
+      {
+        "name": "Cardio & Endurance",
+        "description": "Improve cardiovascular fitness with cycling, running, and endurance-focused training programs.",
+        "icon": "🏃",
+        "duration": "45 min",
+        "level": "Beginner"
+      }
+    ]
+  },
+  "trainers": {
+    "title": "Our Trainers",
+    "subtitle": "Meet the Experts",
+    "items": [
+      {
+        "name": "Alex Rivera",
+        "role": "Head Strength Coach",
+        "bio": "15+ years of experience in competitive powerlifting and strength coaching. NSCA certified.",
+        "specialties": ["Powerlifting", "Strength", "Nutrition"]
+      },
+      {
+        "name": "Sarah Chen",
+        "role": "HIIT & CrossFit Specialist",
+        "bio": "Former CrossFit Games competitor with a passion for helping athletes reach peak performance.",
+        "specialties": ["CrossFit", "HIIT", "Olympic Lifting"]
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "Boxing & MMA Coach",
+        "bio": "Professional MMA fighter turned coach with 10+ years in combat sports training.",
+        "specialties": ["Boxing", "MMA", "Self-Defense"]
+      },
+      {
+        "name": "Emily Park",
+        "role": "Yoga & Wellness Instructor",
+        "bio": "Certified yoga therapist specializing in mindfulness-based stress reduction and flexibility.",
+        "specialties": ["Yoga", "Meditation", "Flexibility"]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Membership Plans",
+    "subtitle": "Choose Your Plan",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": 29,
+        "period": "month",
+        "description": "Perfect for beginners starting their fitness journey",
+        "features": [
+          "Access to gym floor",
+          "Locker room access",
+          "Free WiFi",
+          "1 Guest pass/month"
+        ],
+        "highlighted": false
+      },
+      {
+        "name": "Pro",
+        "price": 59,
+        "period": "month",
+        "description": "Most popular plan for dedicated fitness enthusiasts",
+        "features": [
+          "All Basic features",
+          "All group classes",
+          "Personal training (2x/month)",
+          "Nutrition consultation",
+          "Towel service",
+          "3 Guest passes/month"
+        ],
+        "highlighted": true
+      },
+      {
+        "name": "Elite",
+        "price": 99,
+        "period": "month",
+        "description": "Premium experience with unlimited access and perks",
+        "features": [
+          "All Pro features",
+          "24/7 gym access",
+          "Unlimited personal training",
+          "Spa & sauna access",
+          "Priority class booking",
+          "Unlimited guest passes"
+        ],
+        "highlighted": false
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Transformations",
+    "subtitle": "Real Results, Real People",
+    "items": [
+      {
+        "name": "James K.",
+        "quote": "I lost 40 lbs in 6 months with the guidance of the amazing trainers at JERAI GYM. Life-changing experience!",
+        "rating": 5,
+        "program": "Weight Loss Program"
+      },
+      {
+        "name": "Maria S.",
+        "quote": "The HIIT classes are incredible! I've never felt stronger or more confident. The community here is unmatched.",
+        "rating": 5,
+        "program": "HIIT Classes"
+      },
+      {
+        "name": "David L.",
+        "quote": "Best gym I've ever been to. The trainers are knowledgeable, the equipment is top-notch, and the atmosphere is motivating.",
+        "rating": 5,
+        "program": "Strength Training"
+      },
+      {
+        "name": "Aisha R.",
+        "quote": "The yoga classes helped me recover from a back injury. The instructors are patient and incredibly skilled.",
+        "rating": 5,
+        "program": "Yoga & Wellness"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Our Facility",
+    "subtitle": "Take a Look Inside",
+    "categories": ["All", "Gym Floor", "Classes", "Equipment", "Community"],
+    "items": [
+      { "alt": "Modern gym floor with premium equipment", "category": "Gym Floor" },
+      { "alt": "Group HIIT class in action", "category": "Classes" },
+      { "alt": "Premium weightlifting area", "category": "Equipment" },
+      { "alt": "Members celebrating fitness milestones", "category": "Community" },
+      { "alt": "Spacious cardio section", "category": "Gym Floor" },
+      { "alt": "Yoga studio with natural lighting", "category": "Classes" },
+      { "alt": "Functional training zone", "category": "Equipment" },
+      { "alt": "Gym community event", "category": "Community" }
+    ]
+  },
+  "blog": {
+    "title": "Latest Blog Posts",
+    "subtitle": "Fitness Tips & News",
+    "posts": [
+      {
+        "title": "10 Essential Exercises for Building Core Strength",
+        "excerpt": "Discover the most effective core exercises that will help you build a strong foundation for all your workouts.",
+        "date": "2024-12-15",
+        "author": "Alex Rivera",
+        "category": "Training Tips",
+        "readTime": "5 min read"
+      },
+      {
+        "title": "Nutrition Guide: Pre and Post Workout Meals",
+        "excerpt": "Learn what to eat before and after your workouts to maximize performance and recovery.",
+        "date": "2024-12-10",
+        "author": "Sarah Chen",
+        "category": "Nutrition",
+        "readTime": "7 min read"
+      },
+      {
+        "title": "The Benefits of HIIT Training for Fat Loss",
+        "excerpt": "Why high-intensity interval training is one of the most efficient methods for burning fat and improving fitness.",
+        "date": "2024-12-05",
+        "author": "Marcus Johnson",
+        "category": "Fitness",
+        "readTime": "4 min read"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Got Questions? We Have Answers",
+    "items": [
+      {
+        "question": "What are your operating hours?",
+        "answer": "We are open Monday through Friday from 5 AM to 11 PM, and weekends from 6 AM to 10 PM. Elite members enjoy 24/7 access."
+      },
+      {
+        "question": "Do you offer a free trial?",
+        "answer": "Yes! We offer a complimentary 3-day trial pass for all new visitors. Book your free session through our website or visit us in person."
+      },
+      {
+        "question": "Can I freeze my membership?",
+        "answer": "Yes, you can freeze your membership for up to 3 months per year with at least 7 days notice. Contact our front desk for details."
+      },
+      {
+        "question": "Do you provide personal training?",
+        "answer": "Absolutely! We have certified personal trainers available for one-on-one sessions. Pro members get 2 sessions per month included, and Elite members get unlimited sessions."
+      },
+      {
+        "question": "Is there parking available?",
+        "answer": "Yes, we have a large free parking lot for members. We also have secure bike storage for cyclists."
+      },
+      {
+        "question": "What should I bring for my first visit?",
+        "answer": "Bring comfortable workout clothes, athletic shoes, a water bottle, and a towel. We provide lockers and shower facilities."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd Love to Hear from You",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9663095343008!2d-74.00425878428698!3d40.74076794379132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259bf5c1654f3%3A0xc80f9cfce5383d5d!2sGoogle!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+  "footer": {
+    "copyright": "© 2024 JERAI GYM. All rights reserved.",
+    "quickLinks": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" },
+      { "label": "Careers", "href": "#" },
+      { "label": "Sitemap", "href": "#" }
+    ]
+  }
+}
